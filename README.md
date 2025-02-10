@@ -32,9 +32,9 @@ In the local repository, fetch, pull, and checkout to switch to your own
 branch. Then **edit the two lines below** (in `README.md`) to add your own
 favorite color and name to the list.
 
-> Our team's favorite colors are: (insert colors here)
-> 
-> Students who have completed this part: (insert names here)
+**Our team's favorite colors are:** *(insert colors here)*
+ 
+**Teammates who have completed this part are:** *(insert names here)*
 
 Commit and push the changes to your own branch.
 
