@@ -25,6 +25,9 @@ commit and push it. (Since your teammates are making changes in the repository
 concurrently, everyone after the first will likely need to fetch and pull to
 get teammates' contributions before you are able to push their own.)
 
+When this step is done, everyone should fetch and pull; you should see all
+teammates' files.
+
 ## 3. Make a new branch
 
 In GitHub, each team member should make their own branch named after themself.
