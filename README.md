@@ -33,6 +33,7 @@ branch. Then **edit the two lines below** (in `README.md`) to add your own
 favorite color and name to the list.
 
 > Our team's favorite colors are: (insert colors here)
+> 
 > Students who have completed this part: (insert names here)
 
 Commit and push the changes to your own branch.
